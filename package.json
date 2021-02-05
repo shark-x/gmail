@@ -1,0 +1,22 @@
+{
+  "name": "gmail",
+  "version": "1.0.0",
+  "description": "This is library for gmail API work. You can use it if you need get message in your gmail inbox.",
+  "main": "gm.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shark-x/gmail.git"
+  },
+  "author": "shark-x",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shark-x/gmail/issues"
+  },
+  "homepage": "https://github.com/shark-x/gmail#readme",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
+}
